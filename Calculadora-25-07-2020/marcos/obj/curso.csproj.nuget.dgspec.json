@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcos/Documents/curso/marcos/curso.csproj": {}
+    "/home/marcos/Documents/aula/Calculadora-25-07-2020/marcos/curso.csproj": {}
   },
   "projects": {
-    "/home/marcos/Documents/curso/marcos/curso.csproj": {
+    "/home/marcos/Documents/aula/Calculadora-25-07-2020/marcos/curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcos/Documents/curso/marcos/curso.csproj",
+        "projectUniqueName": "/home/marcos/Documents/aula/Calculadora-25-07-2020/marcos/curso.csproj",
         "projectName": "curso",
-        "projectPath": "/home/marcos/Documents/curso/marcos/curso.csproj",
+        "projectPath": "/home/marcos/Documents/aula/Calculadora-25-07-2020/marcos/curso.csproj",
         "packagesPath": "/home/marcos/.nuget/packages/",
-        "outputPath": "/home/marcos/Documents/curso/marcos/obj/",
+        "outputPath": "/home/marcos/Documents/aula/Calculadora-25-07-2020/marcos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcos/.nuget/NuGet/NuGet.Config"

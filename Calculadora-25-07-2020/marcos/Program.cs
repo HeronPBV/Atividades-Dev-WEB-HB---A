@@ -16,7 +16,7 @@ namespace curso
             num1 = int.Parse(tmp);
 
             Console.WriteLine("Digite mais um número: ");
-            Console.ReadLine();
+            tmp = Console.ReadLine();//erro
             num2 = int.Parse(tmp);
 
             double resultado;
