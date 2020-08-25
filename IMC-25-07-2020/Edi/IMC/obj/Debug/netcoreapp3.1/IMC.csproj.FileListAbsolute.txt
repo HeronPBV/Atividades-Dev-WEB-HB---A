@@ -1,0 +1,4 @@
+C:\Users\otech\Desktop\IMC\obj\Debug\netcoreapp3.1\IMC.csprojAssemblyReference.cache
+C:\Users\otech\Desktop\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\otech\Desktop\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\otech\Desktop\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.CoreCompileInputs.cache
